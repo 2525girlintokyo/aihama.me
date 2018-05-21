@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+.display_dt{
+	display:none;
+}
+
+h1{
+	font-size:32px;
+	margin:0px;
+	padding:0px;
+}
+
+.m{
+	font-size:100%;
+	line-height:1.5em;
+}
+
+#wrap_inside_margin{
+	margin:10%;
+}
+
+article{
+	background:#FFF;
+	margin:0 auto;
+}
+
+main{
+	padding:7%;
+}
+
+.contentbox{	
+	margin:0 auto 8% 0;
+	padding:15% 5% 15% 5%;
+}
+
+.icon_margin{
+	padding:8%;
+}
+
+.followme_icon{
+	margin:0 0 4% 0;
+	width:25%;
+}

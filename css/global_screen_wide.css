@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+.display_mb{
+	display:none;
+}
+
+h1{
+	font-size:45px;
+	margin:0px;
+	padding:0px;
+}
+
+.m{
+	font-size:19px;
+	line-height:1.5em;
+}
+
+.s{
+	font-size:14px;
+	line-height:1.4em;
+}
+
+#wrap_inside_margin{
+	padding:8% 15%;
+}
+
+article{
+	background:#FFF;
+}
+
+main{
+	padding:10% 15%;
+}
+
+.contentbox{
+	margin:0 auto 10% auto;
+	padding:10% 5%;
+}
+
+.icon_margin{
+	padding:8% 0 5% 0;
+}
+	
+.followme_icon{
+	margin:0 0 3% 0;
+	width:18%;
+}
+
+
+
